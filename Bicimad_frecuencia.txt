@@ -1,0 +1,69 @@
+Script started on Sat May 21 17:17:45 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa Desktop % [K[?2004hpython3 Bicimad_separado.py 201704_Usage_Bicimad.json[P[29C [30D[P[29C [30D[P[29C [30D[P[29C [30D[P[29C [30D[P[29C [30D[P[29C [30D[P[29C [30Df.py 201704_Usage_Bicimad.json[29Dr.py 201704_Usage_Bicimad.json[29De.py 201704_Usage_Bicimad.json[29Dc.py 201704_Usage_Bicimad.json[29Du.py 201704_Usage_Bicimad.json[29De.py 201704_Usage_Bicimad.json[29Dn.py 201704_Usage_Bicimad.json[29Dc.py 201704_Usage_Bicimad.json[29Di.py 201704_Usage_Bicimad.json[29Da.py 201704_Usage_Bicimad.json[29D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[P[19C [20D[P[19C [20D[P[19C [20D9_Usage_Bicimad.json[19D0_Usage_Bicimad.json[19D1_Usage_Bicimad.json[19D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+22/05/21 17:18:22 WARN Utils: Your hostname, MacBook-Air-de-Teresa.local resolves to a loopback address: 127.0.0.1; using 10.245.2.96 instead (on interface en0)
+22/05/21 17:18:22 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+22/05/21 17:18:22 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[Stage 0:>                                                         (0 + 4) / 20][Stage 0:===========>                                              (4 + 4) / 20][Stage 0:====================>                                     (7 + 4) / 20][Stage 0:=======================>                                  (8 + 4) / 20][Stage 0:===============================>                         (11 + 4) / 20][Stage 0:==================================>                      (12 + 4) / 20][Stage 0:=======================================>                 (14 + 4) / 20][Stage 0:=============================================>           (16 + 4) / 20][Stage 0:================================================>        (17 + 3) / 20][Stage 0:===================================================>     (18 + 2) / 20]                                                                                ------------------------------------------------- 
+TOP 5 TRAYECTOS MÁS FRECUENTES DE LUNES A VIERNES 
+------------------------------------------------- 
+Se realiza el recorrido:  (9, 149) veces:  321
+
+Se realiza el recorrido:  (130, 149) veces:  237
+
+Se realiza el recorrido:  (64, 78) veces:  228
+
+Se realiza el recorrido:  (1, 175) veces:  211
+
+Se realiza el recorrido:  (130, 157) veces:  211
+
+
+-------------------------------------------------- 
+TOP 5 TRAYECTOS MÁS FRECUENTES DE SÁBADO A DOMINGO 
+-------------------------------------------------- 
+Se realiza el recorrido:  (58, 58) veces:  100
+
+Se realiza el recorrido:  (90, 90) veces:  79
+
+Se realiza el recorrido:  (121, 121) veces:  77
+
+Se realiza el recorrido:  (9, 149) veces:  72
+
+Se realiza el recorrido:  (6, 6) veces:  71
+
+--------------------------------------------------- 
+TOP 5 TRAYECTOS MENOS FRECUENTES DE LUNES A VIERNES 
+--------------------------------------------------- 
+Se realiza el recorrido:  (10, 172) veces:  0
+
+Se realiza el recorrido:  (15, 47) veces:  0
+
+Se realiza el recorrido:  (29, 73) veces:  0
+
+Se realiza el recorrido:  (47, 127) veces:  0
+
+Se realiza el recorrido:  (11, 119) veces:  0
+
+
+---------------------------------------------------- 
+TOP 5 TRAYECTOS MENOS FRECUENTES DE SÁBADO A DOMINGO 
+---------------------------------------------------- 
+Se realiza el recorrido:  (117, 141) veces:  0
+
+Se realiza el recorrido:  (16, 54) veces:  0
+
+Se realiza el recorrido:  (8, 134) veces:  0
+
+Se realiza el recorrido:  (33, 89) veces:  0
+
+Se realiza el recorrido:  (101, 161) veces:  0
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa Desktop % [K[?2004h[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat May 21 17:18:47 2022
