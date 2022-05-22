@@ -1,0 +1,218 @@
+Script started on Sat May 21 17:39:01 2022
+Restored session: sábado, 21 de mayo de 2022, 17:29:00 CEST
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa Desktop % [K[?2004hpython3 Bicimad_por_meses.py 201901_Usage_Bicimad.json 201902_Usage_Bicimad.json[64Dfrecuencia.py 201901[25P[19C                         [25D[39Dseparado.py 201704[P[P[19C  [53Dcd Desktop/Práctica_bicimad                          [26D[27Dpython3 Bicimad_separado.py 201704_Usage_Bicimad.json[37Dfrecuencia.py 201901_Usage_Bicimad.json[39Dpor_meses[P[29C 201902_Usage_Bicimad.json[80D                                                                                [80Dpython3 Bicimad_por_meses.py 201901_Usage_Bicimad.json 201902_Usage_Bicimad.json[64Dfrecuencia.py 201901[25P[19C                         [25D[39Dseparado.py 201704[P[P[19C  [53Dcd Desktop/Práctica_bicimad                          [26D[24D                        [25Dexport PATH=$PATH:/usr/local/hadoop/bin/[40D~/.bashrc                               [31D[9Dexport PATH=$PATH:/usr/local/hadoop/bin/[40Dcd                                      [38D Desktop/Práctica_bicimad[27Dpython3 Bicimad_separado.py 201704_Usage_Bicimad.json[37Dfrecuencia.py 201901_Usage_Bicimad.json[39Dpor_meses[P[29C 201902_Usage_Bicimad.json[80D                                                                                [80Dpython3 Bicimad_por_meses.py 201901_Usage_Bicimad.json 201902_Usage_Bicimad.json[1C[P[55C [56D[P[55C [56D[P[55C [56D[P[55C [56D[P[55C [56D[P[55C [56D[P[55C [56D[P[55C [56D[P[55C [56Ds.py 201901[25P[19C 201902_Usage_Bicimad.json[55Di.py 201901[25P[19C 201902_Usage_Bicimad.json[55Dn.py 201901[25P[19C 201902_Usage_Bicimad.json[55D_.py 201901[25P[19C 201902_Usage_Bicimad.json[55Ds.py 201901[25P[19C 201902_Usage_Bicimad.json[55De.py 201901[25P[19C 201902_Usage_Bicimad.json[55Dp.py 201901[25P[19C 201902_Usage_Bicimad.json[55Da.py 201901[25P[19C 201902_Usage_Bicimad.json[55Dr.py 201901[25P[19C 201902_Usage_Bicimad.json[55Da.py 201901[25P[19C 201902_Usage_Bicimad.json[55Dr.py 201901[25P[19C 201902_Usage_Bicimad.json[55D_.py 201901[25P[19C 201902_Usage_Bicimad.json[55Dp.py 201901[25P[19C 201902_Usage_Bicimad.json[55Do.py 201901[25P[19C 201902_Usage_Bicimad.json[55Dr.py 201901[25P[19C 201902_Usage_Bicimad.json[55D_.py 201901[25P[19C 201902_Usage_Bicimad.json[55Dm.py 201901[25P[19C 201902_Usage_Bicimad.json[55De.py 201901[25P[19C 201902_Usage_Bicimad.json[55Ds.py 201901[25P[19C 201902_Usage_Bicimad.json[55De.py 201901[25P[19C 201902_Usage_Bicimad.json[55Ds.py 201901[25P[19C 201902_Usage_Bicimad.json[55D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C 201903_Usage_Bicimad.json[?2004l
+22/05/21 17:39:52 WARN Utils: Your hostname, MacBook-Air-de-Teresa.local resolves to a loopback address: 127.0.0.1; using 10.245.2.96 instead (on interface en0)
+22/05/21 17:39:52 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+22/05/21 17:39:52 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[Stage 0:>                                                         (0 + 4) / 46][Stage 0:=====>                                                    (4 + 4) / 46][Stage 0:========>                                                 (7 + 4) / 46][Stage 0:==========>                                               (8 + 4) / 46][Stage 0:============>                                            (10 + 4) / 46][Stage 0:=============>                                           (11 + 4) / 46][Stage 0:==============>                                          (12 + 4) / 46][Stage 0:================>                                        (13 + 4) / 46][Stage 0:==================>                                      (15 + 4) / 46][Stage 0:===================>                                     (16 + 4) / 46][Stage 0:=====================>                                   (17 + 4) / 46][Stage 0:=======================>                                 (19 + 4) / 46][Stage 0:==========================>                              (21 + 4) / 46][Stage 0:===========================>                             (22 + 4) / 46][Stage 0:============================>                            (23 + 4) / 46][Stage 0:==============================>                          (25 + 4) / 46][Stage 0:=================================>                       (27 + 4) / 46][Stage 0:==================================>                      (28 + 4) / 46][Stage 0:===================================>                     (29 + 4) / 46][Stage 0:=====================================>                   (30 + 4) / 46][Stage 0:======================================>                  (31 + 4) / 46][Stage 0:=======================================>                 (32 + 4) / 46][Stage 0:========================================>                (33 + 4) / 46][Stage 0:==========================================>              (34 + 4) / 46][Stage 0:===========================================>             (35 + 4) / 46][Stage 0:============================================>            (36 + 4) / 46][Stage 0:=============================================>           (37 + 4) / 46][Stage 0:===============================================>         (38 + 4) / 46][Stage 0:================================================>        (39 + 4) / 46][Stage 0:=================================================>       (40 + 4) / 46][Stage 0:==================================================>      (41 + 4) / 46][Stage 0:====================================================>    (42 + 4) / 46][Stage 0:=====================================================>   (43 + 3) / 46][Stage 0:======================================================>  (44 + 2) / 46][Stage 1:==============================>                          (25 + 4) / 46][Stage 1:============================================>            (36 + 4) / 46]                                                                                -----------------------------------------------------
+                     Lunes                
+-----------------------------------------------------
+
+Hora: 0  recorrido:  (161, 175) se realiza 13 veces.
+Hora: 1  recorrido:  (88, 95) se realiza 14 veces.
+Hora: 2  recorrido:  (43, 162) se realiza 12 veces.
+Hora: 3  recorrido:  (113, 118) se realiza 11 veces.
+Hora: 4  recorrido:  (8, 47) se realiza 12 veces.
+Hora: 5  recorrido:  (48, 135) se realiza 11 veces.
+Hora: 6  recorrido:  (84, 106) se realiza 16 veces.
+Hora: 7  recorrido:  (46, 67) se realiza 24 veces.
+Hora: 8  recorrido:  (9, 163) se realiza 38 veces.
+Hora: 9  recorrido:  (3, 3) se realiza 38 veces.
+Hora: 10  recorrido:  (28, 28) se realiza 19 veces.
+Hora: 11  recorrido:  (34, 34) se realiza 27 veces.
+Hora: 12  recorrido:  (133, 133) se realiza 14 veces.
+Hora: 13  recorrido:  (84, 88) se realiza 18 veces.
+Hora: 14  recorrido:  (64, 78) se realiza 24 veces.
+Hora: 15  recorrido:  (119, 119) se realiza 23 veces.
+Hora: 16  recorrido:  (42, 42) se realiza 25 veces.
+Hora: 17  recorrido:  (43, 43) se realiza 36 veces.
+Hora: 18  recorrido:  (41, 41) se realiza 33 veces.
+Hora: 19  recorrido:  (67, 67) se realiza 21 veces.
+Hora: 20  recorrido:  (132, 132) se realiza 35 veces.
+Hora: 21  recorrido:  (14, 156) se realiza 22 veces.
+Hora: 22  recorrido:  (130, 156) se realiza 12 veces.
+Hora: 23  recorrido:  (102, 135) se realiza 28 veces.
+
+-----------------------------------------------------
+                     Martes                
+-----------------------------------------------------
+
+Hora: 0  recorrido:  (20, 129) se realiza 10 veces.
+Hora: 1  recorrido:  (78, 90) se realiza 11 veces.
+Hora: 2  recorrido:  (74, 151) se realiza 14 veces.
+Hora: 3  recorrido:  (1, 26) se realiza 7 veces.
+Hora: 4  recorrido:  (13, 137) se realiza 12 veces.
+Hora: 5  recorrido:  (139, 149) se realiza 11 veces.
+Hora: 6  recorrido:  (126, 134) se realiza 15 veces.
+Hora: 7  recorrido:  (84, 129) se realiza 30 veces.
+Hora: 8  recorrido:  (64, 79) se realiza 39 veces.
+Hora: 9  recorrido:  (12, 12) se realiza 30 veces.
+Hora: 10  recorrido:  (6, 6) se realiza 46 veces.
+Hora: 11  recorrido:  (14, 14) se realiza 25 veces.
+Hora: 12  recorrido:  (7, 7) se realiza 28 veces.
+Hora: 13  recorrido:  (86, 90) se realiza 16 veces.
+Hora: 14  recorrido:  (19, 55) se realiza 24 veces.
+Hora: 15  recorrido:  (4, 4) se realiza 33 veces.
+Hora: 16  recorrido:  (132, 132) se realiza 33 veces.
+Hora: 17  recorrido:  (61, 61) se realiza 69 veces.
+Hora: 18  recorrido:  (123, 123) se realiza 32 veces.
+Hora: 19  recorrido:  (124, 124) se realiza 23 veces.
+Hora: 20  recorrido:  (9, 157) se realiza 16 veces.
+Hora: 21  recorrido:  (129, 133) se realiza 20 veces.
+Hora: 22  recorrido:  (52, 135) se realiza 13 veces.
+Hora: 23  recorrido:  (34, 175) se realiza 31 veces.
+
+-----------------------------------------------------
+                     Miercoles                
+-----------------------------------------------------
+
+Hora: 0  recorrido:  (6, 135) se realiza 13 veces.
+Hora: 1  recorrido:  (154, 175) se realiza 14 veces.
+Hora: 2  recorrido:  (5, 151) se realiza 11 veces.
+Hora: 3  recorrido:  (135, 148) se realiza 8 veces.
+Hora: 4  recorrido:  (13, 137) se realiza 13 veces.
+Hora: 5  recorrido:  (139, 149) se realiza 10 veces.
+Hora: 6  recorrido:  (84, 106) se realiza 15 veces.
+Hora: 7  recorrido:  (9, 175) se realiza 20 veces.
+Hora: 8  recorrido:  (162, 163) se realiza 43 veces.
+Hora: 9  recorrido:  (73, 73) se realiza 52 veces.
+Hora: 10  recorrido:  (84, 84) se realiza 40 veces.
+Hora: 11  recorrido:  (31, 31) se realiza 31 veces.
+Hora: 12  recorrido:  (31, 31) se realiza 34 veces.
+Hora: 13  recorrido:  (64, 64) se realiza 23 veces.
+Hora: 14  recorrido:  (64, 78) se realiza 24 veces.
+Hora: 15  recorrido:  (162, 163) se realiza 26 veces.
+Hora: 16  recorrido:  (127, 127) se realiza 34 veces.
+Hora: 17  recorrido:  (128, 128) se realiza 49 veces.
+Hora: 18  recorrido:  (135, 135) se realiza 39 veces.
+Hora: 19  recorrido:  (51, 51) se realiza 40 veces.
+Hora: 20  recorrido:  (62, 62) se realiza 21 veces.
+Hora: 21  recorrido:  (6, 6) se realiza 18 veces.
+Hora: 22  recorrido:  (52, 135) se realiza 15 veces.
+Hora: 23  recorrido:  (83, 102) se realiza 21 veces.
+
+-----------------------------------------------------
+                     Jueves                
+-----------------------------------------------------
+
+Hora: 0  recorrido:  (90, 128) se realiza 16 veces.
+Hora: 1  recorrido:  (139, 172) se realiza 17 veces.
+Hora: 2  recorrido:  (135, 148) se realiza 9 veces.
+Hora: 3  recorrido:  (20, 108) se realiza 8 veces.
+Hora: 4  recorrido:  (8, 47) se realiza 13 veces.
+Hora: 5  recorrido:  (139, 149) se realiza 10 veces.
+Hora: 6  recorrido:  (59, 93) se realiza 13 veces.
+Hora: 7  recorrido:  (46, 67) se realiza 20 veces.
+Hora: 8  recorrido:  (95, 95) se realiza 61 veces.
+Hora: 9  recorrido:  (96, 96) se realiza 33 veces.
+Hora: 10  recorrido:  (126, 126) se realiza 27 veces.
+Hora: 11  recorrido:  (103, 103) se realiza 33 veces.
+Hora: 12  recorrido:  (102, 102) se realiza 35 veces.
+Hora: 13  recorrido:  (101, 101) se realiza 29 veces.
+Hora: 14  recorrido:  (64, 78) se realiza 21 veces.
+Hora: 15  recorrido:  (110, 110) se realiza 25 veces.
+Hora: 16  recorrido:  (110, 110) se realiza 39 veces.
+Hora: 17  recorrido:  (97, 97) se realiza 32 veces.
+Hora: 18  recorrido:  (49, 91) se realiza 32 veces.
+Hora: 19  recorrido:  (111, 135) se realiza 30 veces.
+Hora: 20  recorrido:  (9, 149) se realiza 21 veces.
+Hora: 21  recorrido:  (58, 149) se realiza 18 veces.
+Hora: 22  recorrido:  (52, 135) se realiza 18 veces.
+Hora: 23  recorrido:  (27, 175) se realiza 24 veces.
+
+-----------------------------------------------------
+                     Viernes                
+-----------------------------------------------------
+
+Hora: 0  recorrido:  (1, 42) se realiza 25 veces.
+Hora: 1  recorrido:  (1, 136) se realiza 19 veces.
+Hora: 2  recorrido:  (50, 154) se realiza 12 veces.
+Hora: 3  recorrido:  (147, 154) se realiza 10 veces.
+Hora: 4  recorrido:  (13, 137) se realiza 13 veces.
+Hora: 5  recorrido:  (48, 135) se realiza 11 veces.
+Hora: 6  recorrido:  (84, 168) se realiza 23 veces.
+Hora: 7  recorrido:  (140, 140) se realiza 22 veces.
+Hora: 8  recorrido:  (9, 149) se realiza 38 veces.
+Hora: 9  recorrido:  (157, 157) se realiza 30 veces.
+Hora: 10  recorrido:  (150, 150) se realiza 27 veces.
+Hora: 11  recorrido:  (149, 149) se realiza 33 veces.
+Hora: 12  recorrido:  (153, 153) se realiza 45 veces.
+Hora: 13  recorrido:  (137, 137) se realiza 24 veces.
+Hora: 14  recorrido:  (91, 132) se realiza 32 veces.
+Hora: 15  recorrido:  (137, 137) se realiza 29 veces.
+Hora: 16  recorrido:  (172, 172) se realiza 53 veces.
+Hora: 17  recorrido:  (152, 152) se realiza 46 veces.
+Hora: 18  recorrido:  (146, 146) se realiza 30 veces.
+Hora: 19  recorrido:  (9, 149) se realiza 31 veces.
+Hora: 20  recorrido:  (9, 149) se realiza 20 veces.
+Hora: 21  recorrido:  (149, 149) se realiza 17 veces.
+Hora: 22  recorrido:  (6, 6) se realiza 21 veces.
+Hora: 23  recorrido:  (110, 135) se realiza 16 veces.
+
+-----------------------------------------------------
+                     Sabado                
+-----------------------------------------------------
+
+Hora: 0  recorrido:  (102, 132) se realiza 21 veces.
+Hora: 1  recorrido:  (83, 90) se realiza 19 veces.
+Hora: 2  recorrido:  (91, 168) se realiza 16 veces.
+Hora: 3  recorrido:  (47, 129) se realiza 22 veces.
+Hora: 4  recorrido:  (8, 47) se realiza 12 veces.
+Hora: 5  recorrido:  (128, 169) se realiza 11 veces.
+Hora: 6  recorrido:  (11, 135) se realiza 11 veces.
+Hora: 7  recorrido:  (58, 135) se realiza 12 veces.
+Hora: 8  recorrido:  (64, 64) se realiza 56 veces.
+Hora: 9  recorrido:  (78, 78) se realiza 39 veces.
+Hora: 10  recorrido:  (79, 79) se realiza 30 veces.
+Hora: 11  recorrido:  (80, 80) se realiza 35 veces.
+Hora: 12  recorrido:  (79, 79) se realiza 26 veces.
+Hora: 13  recorrido:  (132, 132) se realiza 23 veces.
+Hora: 14  recorrido:  (132, 175) se realiza 20 veces.
+Hora: 15  recorrido:  (132, 135) se realiza 18 veces.
+Hora: 16  recorrido:  (132, 132) se realiza 23 veces.
+Hora: 17  recorrido:  (90, 90) se realiza 26 veces.
+Hora: 18  recorrido:  (77, 77) se realiza 26 veces.
+Hora: 19  recorrido:  (9, 149) se realiza 18 veces.
+Hora: 20  recorrido:  (6, 6) se realiza 16 veces.
+Hora: 21  recorrido:  (6, 6) se realiza 30 veces.
+Hora: 22  recorrido:  (6, 6) se realiza 16 veces.
+Hora: 23  recorrido:  (57, 80) se realiza 11 veces.
+
+-----------------------------------------------------
+                     Domingo                
+-----------------------------------------------------
+
+Hora: 0  recorrido:  (90, 129) se realiza 22 veces.
+Hora: 1  recorrido:  (131, 132) se realiza 20 veces.
+Hora: 2  recorrido:  (46, 63) se realiza 20 veces.
+Hora: 3  recorrido:  (91, 168) se realiza 17 veces.
+Hora: 4  recorrido:  (135, 159) se realiza 13 veces.
+Hora: 5  recorrido:  (163, 166) se realiza 11 veces.
+Hora: 6  recorrido:  (30, 51) se realiza 11 veces.
+Hora: 7  recorrido:  (9, 135) se realiza 12 veces.
+Hora: 8  recorrido:  (116, 116) se realiza 54 veces.
+Hora: 9  recorrido:  (121, 121) se realiza 67 veces.
+Hora: 10  recorrido:  (125, 125) se realiza 19 veces.
+Hora: 11  recorrido:  (132, 132) se realiza 29 veces.
+Hora: 12  recorrido:  (135, 135) se realiza 29 veces.
+Hora: 13  recorrido:  (135, 135) se realiza 24 veces.
+Hora: 14  recorrido:  (132, 135) se realiza 20 veces.
+Hora: 15  recorrido:  (43, 131) se realiza 17 veces.
+Hora: 16  recorrido:  (132, 135) se realiza 26 veces.
+Hora: 17  recorrido:  (167, 167) se realiza 23 veces.
+Hora: 18  recorrido:  (159, 159) se realiza 27 veces.
+Hora: 19  recorrido:  (6, 6) se realiza 18 veces.
+Hora: 20  recorrido:  (6, 6) se realiza 24 veces.
+Hora: 21  recorrido:  (6, 6) se realiza 21 veces.
+Hora: 22  recorrido:  (80, 80) se realiza 10 veces.
+Hora: 23  recorrido:  (1, 135) se realiza 16 veces.
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa Desktop % [K[?2004h[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat May 21 17:40:33 2022
